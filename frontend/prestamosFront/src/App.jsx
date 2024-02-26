@@ -26,7 +26,7 @@ function App() {
 
         {/* Definición de rutas */}
         <Routes>
-        <Route index element={<Dashboard />} />
+        <Route index element={<Login />} />
           <Route path="login" element={<Login />} />
           <Route path="register" element={<Register />} />
           <Route path="dashboard/*" element={<Dashboard />} />
