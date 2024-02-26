@@ -6,7 +6,7 @@ import {
   Link
 } from 'react-router-dom';
 
-// Importa tus componentes de página
+
 import Login from './pages/Login';
 import Register from './pages/Register';
 import Dashboard from './pages/Dashboard';
